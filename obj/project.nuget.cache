@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HndH8862HpK3DuJaXhUaaAu1ODN3td3jqi6sn79pgyNY8WKb71MvGGOzXBN95sBikOgVKJMx7JktpwT+zw568A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaida\\OneDrive\\Desktop\\Semester 4\\CSE 310-03\\Week 6\\Chess\\Chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaida\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jaida\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
